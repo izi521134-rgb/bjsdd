@@ -1,0 +1,133 @@
+.title-box {
+    padding: 10px;
+  background: linear-gradient(135deg, #3600b3, #ff6c14);
+    margin: 1px;
+    border: 1px solid #444;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.title-box h1 {
+    margin: 0 0 2px;
+}
+
+.title-box Whx {
+width: 100%;
+    min-height: 300px;
+    box-sizing: border-box;
+
+    background: rgba(20, 20, 20, 0.8);
+    padding: 20px;
+    margin: 20px 0;
+
+    border: 1px solid #444;
+    border-radius: 15px;
+}
+
+
+
+
+/*body*/
+body {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  background: linear-gradient(135deg, #181818, #000000);}
+
+.h1, h2, h4, h5, h6, p {
+    font-family:'outfit',sans-serif;
+}
+
+h1, .Welcome, .Who, .Whx {
+    font-family:'outfit',sans-serif;
+}
+
+p {
+    font-family:'outfit',sans-serif;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background: rgba(118, 0, 159, 0.9019607843137255);
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+.logo {
+    color: white;
+    margin: 0;
+}
+
+.navbar ul {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 16pxpx;}
+
+
+
+/*Judul Web*/
+h1{color: hwb(0 100% 0%);
+    font-size: 50px;
+    font-family: Arial;
+    text-align: center;
+    font-weight: bold;
+   margin-bottom: 10px;
+  }
+
+
+.Welcome {margin-top: 0;
+    margin-bottom: 10px;
+          color: white
+         }
+/*H2*/
+h2 {color:  hwb(269 0% 27%);
+    font-size: 18px;
+    font-family: Arial;
+    text-align: center;
+    font-weight: bold;
+   margin-Bottom: 50px;}
+
+/*h4*/
+h4 {color: hwb(269 0% 27%);
+    font-size: 18px;
+    font-family: Arial;
+    text-align: center;
+    font-weight: bold;
+   margin-Bottom: 0px;}
+
+/*p*/
+p {color: hwb(0 100% 0%);
+    font-size: 18px;
+    font-family: Arial;
+    text-align: center;
+  font-size: 12px;}
+
+.Whx {text-align:left;
+     font-size: 12px;
+     color:white}
+
+
+/*h5*/
+h5 {text-align: center;
+   color: hwb(0 100% 0%)
+   }
+
+/*h6*/
+h6 {text-align: center;
+   color: #ffffff
+   }
